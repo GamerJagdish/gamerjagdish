@@ -14,7 +14,7 @@
 - **[Hungarian Method Solver](https://hungarian.gamerjagdish.com/)** - An interactive Operations Research tool that solves assignment problems using the Hungarian algorithm. *(Algorithm Visualizer, JavaScript)*
 - **[Activity Tracker](https://track.gamerjagdish.com/)** - A personal activity tracking dashboard that monitors streaks, session durations, and weekly heatmaps. *(Redis, Data Visualization)*
 - **[Goodbye](https://goodbye.gamerjagdish.com/)** - A heartbeat monitor dead man's switch for my Discord friends that reveals my final words if I go offline for 24 hours. *(Firebase, Android Automation)*
-- **[Simple URL Replacer](https://github.com/GamerJagdish/simple-url-redirector)** - A very simple browser extension to redirect and replace URLs, with regex for pro users. *(Browser Extension, JavaScript)*
+- **[Simple URL Redirector](https://github.com/GamerJagdish/simple-url-redirector)** - A very simple browser extension to redirect and replace URLs, with regex for pro users. *(Browser Extension, JavaScript)*
 
 ### Connect with me
 
