@@ -9,12 +9,15 @@
 
 ### Featured Projects
 
-- **[Monake](https://github.com/GamerJagdish/Monake)** - A decentralized Snake game built for the Monad testnet featuring an on-chain leaderboard and a daily prize pool system. *(Next.js, Farcaster Miniapp, Solidity, Redis)*
-- **[UPI MCC Checker](https://github.com/GamerJagdish/UPI-MCC-Checker)** - A cross-platform app to scan UPI QR codes and identify Merchant Category Codes (MCC) to avoid surcharges and optimize credit card rewards. *(Expo, React Native, TypeScript)*
-- **[Hungarian Method Solver](https://hungarian.gamerjagdish.com/)** - An interactive Operations Research tool that solves assignment problems using the Hungarian algorithm. *(Algorithm Visualizer, JavaScript)*
-- **[Activity Tracker](https://track.gamerjagdish.com/)** - A personal activity tracking dashboard that monitors streaks, session durations, and weekly heatmaps. *(Redis, Data Visualization)*
-- **[Goodbye](https://goodbye.gamerjagdish.com/)** - A heartbeat monitor dead man's switch for my Discord friends that reveals my final words if I go offline for 24 hours. *(Firebase, Android Automation)*
-- **[Simple URL Redirector](https://github.com/GamerJagdish/simple-url-redirector)** - A very simple browser extension to redirect and replace URLs, with regex for pro users. *(Browser Extension, JavaScript)*
+- **[NewPilot](https://github.com/GamerJagdish/NewPilot)** - A lightweight native C++ remapper for the Windows 11 Copilot key. ~290 KB installed, <5ms response time, and <2 MB RAM - zero .NET or Electron overhead. Available on the Microsoft Store. *(C++, Win32 API, Windows 11, MSIX, Microsoft Store)*
+- **[CardMinder](https://github.com/GamerJagdish/cardminder)** - A privacy-first Android app that prevents credit and debit cards from being deactivated due to inactivity by tracking transaction dates, showing live countdowns with a home-screen widget, and sending multi-stage reminders. *(Flutter, Dart, Android, Personal Finance, Privacy)*
+- **[Monake](https://github.com/GamerJagdish/Monake)** - A decentralized Snake game for the Monad testnet with an on-chain leaderboard and daily prize pool, packaged as a Farcaster Mini App. *(Next.js, Farcaster Mini App, Solidity, Blockchain, Monad Testnet)*
+- **[UPI MCC Checker](https://github.com/GamerJagdish/UPI-MCC-Checker)** - A cross-platform app that scans UPI QR codes and identifies Merchant Category Codes (MCC), helping users avoid surcharges and optimize credit card rewards. *(Expo, React Native, TypeScript, UPI, QR Scanner)*
+- **[SLM - Simple Logo Maker](https://github.com/GamerJagdish/slm)** - A fast, modern web app to create clean text logos with customizable gradients, backgrounds, and any Google Font. Supports layers, image uploads, and exports to self-contained SVG or high-resolution PNG. *(React 19, TanStack Start, Tailwind CSS v4, Bun, Vite)*
+- **[Hungarian Method Solver](https://hungarian.gamerjagdish.com/)** - An interactive Operations Research tool that solves assignment problems using the Hungarian algorithm, walking through each step to find the optimal job-to-employee assignment. *(Operations Research, Algorithm Visualizer, JavaScript)*
+- **[Activity Tracker](https://track.gamerjagdish.com/)** - A personal activity tracking dashboard that monitors streaks, session durations, time-of-day patterns, and weekly heatmaps - with fast data fetching powered by Redis. *(Redis, Dashboard, Data Visualization, Heatmap)*
+- **[Goodbye](https://goodbye.gamerjagdish.com/)** - A heartbeat monitor for my Discord friends - my phone automatically hits a Firebase API on every unlock to signal I'm alive. If no signal arrives for 24 hours, the site switches to LOST and reveals my final words. *(Firebase, Realtime DB, Android Automation, Dead Man's Switch)*
+- **[Simple URL Redirector](https://github.com/GamerJagdish/simple-url-redirector)** - A lightweight browser extension for redirecting and replacing URLs, with regular-expression rules available for Pro users. *(Browser Extension, JavaScript, URL Redirect, Regex)*
 
 ### Connect with me
 
