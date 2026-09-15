@@ -1,23 +1,23 @@
-<h1 align="center">Hi there, I'm Jagdish Sharma</h1>
-<h3 align="center">Building the future, one line of code at a time.</h3>
+<h1 align="center">Hi, I'm Jagdish Sharma</h1>
+<h3 align="center">Software developer, Building stuff I like.</h3>
 
 <p align="center">
-  <em>With over 3 years of experience, I'm passionate about creating impactful digital experiences. When it comes to solving a problem, I really lock in hard. Watch me make it big.</em>
+  <em>3+ years of experience across mobile, web, and backend. I lock in hard when it's something i find meaninful.</em>
 </p>
 
 ---
 
 ### Featured Projects
 
-- **[NewPilot](https://github.com/GamerJagdish/NewPilot)** - A lightweight native C++ remapper for the Windows 11 Copilot key. ~290 KB installed, <5ms response time, and <2 MB RAM - zero .NET or Electron overhead. Available on the Microsoft Store. *(C++, Win32 API, Windows 11, MSIX, Microsoft Store)*
-- **[CardMinder](https://github.com/GamerJagdish/cardminder)** - A privacy-first Android app that prevents credit and debit cards from being deactivated due to inactivity by tracking transaction dates, showing live countdowns with a home-screen widget, and sending multi-stage reminders. *(Flutter, Dart, Android, Personal Finance, Privacy)*
-- **[Monake](https://github.com/GamerJagdish/Monake)** - A decentralized Snake game for the Monad testnet with an on-chain leaderboard and daily prize pool, packaged as a Farcaster Mini App. *(Next.js, Farcaster Mini App, Solidity, Blockchain, Monad Testnet)*
-- **[UPI MCC Checker](https://github.com/GamerJagdish/UPI-MCC-Checker)** - A cross-platform app that scans UPI QR codes and identifies Merchant Category Codes (MCC), helping users avoid surcharges and optimize credit card rewards. *(Expo, React Native, TypeScript, UPI, QR Scanner)*
-- **[SLM - Simple Logo Maker](https://github.com/GamerJagdish/slm)** - A fast, modern web app to create clean text logos with customizable gradients, backgrounds, and any Google Font. Supports layers, image uploads, and exports to self-contained SVG or high-resolution PNG. *(React 19, TanStack Start, Tailwind CSS v4, Bun, Vite)*
+- **[NewPilot](https://github.com/GamerJagdish/NewPilot)** - A lightweight native C++ remapper for the Windows 11 Copilot key. ~290 KB installed, under 5ms response time, under 2 MB RAM - no .NET or Electron overhead. Available on the Microsoft Store. *(C++, Win32 API, Windows 11, MSIX, Microsoft Store)*
+- **[CardMinder](https://github.com/GamerJagdish/cardminder)** - An Android app that stops your credit and debit cards from getting deactivated due to inactivity. Tracks transaction dates, shows live countdowns via a home-screen widget, sends reminders before the deadline AND it's offline. *(Flutter, Dart, Android, Personal Finance, Privacy)*
+- **[Monake](https://github.com/GamerJagdish/Monake)** - A decentralized Snake game on the Monad testnet with an on-chain leaderboard and daily prize pool, packaged as a Farcaster Mini App. *(Next.js, Farcaster Mini App, Solidity, Blockchain, Monad Testnet)*
+- **[UPI MCC Checker](https://github.com/GamerJagdish/UPI-MCC-Checker)** - Scans UPI QR codes and identifies Merchant Category Codes, so you can avoid surcharges and get the most out of credit card rewards. *(Expo, React Native, TypeScript, UPI, QR Scanner)*
+- **[SLM - Simple Logo Maker](https://github.com/GamerJagdish/slm)** - A fast web app for making clean text logos with gradients, backgrounds, and any Google Font. Supports layers, image uploads, and exports to SVG or high-res PNG. *(React 19, TanStack Start, Tailwind CSS v4, Bun, Vite)*
 - **[Hungarian Method Solver](https://hungarian.gamerjagdish.com/)** - An interactive Operations Research tool that solves assignment problems using the Hungarian algorithm, walking through each step to find the optimal job-to-employee assignment. *(Operations Research, Algorithm Visualizer, JavaScript)*
-- **[Activity Tracker](https://track.gamerjagdish.com/)** - A personal activity tracking dashboard that monitors streaks, session durations, time-of-day patterns, and weekly heatmaps - with fast data fetching powered by Redis. *(Redis, Dashboard, Data Visualization, Heatmap)*
-- **[Goodbye](https://goodbye.gamerjagdish.com/)** - A heartbeat monitor for my Discord friends - my phone automatically hits a Firebase API on every unlock to signal I'm alive. If no signal arrives for 24 hours, the site switches to LOST and reveals my final words. *(Firebase, Realtime DB, Android Automation, Dead Man's Switch)*
-- **[Simple URL Redirector](https://github.com/GamerJagdish/simple-url-redirector)** - A lightweight browser extension for redirecting and replacing URLs, with regular-expression rules available for Pro users. *(Browser Extension, JavaScript, URL Redirect, Regex)*
+- **[Activity Tracker](https://track.gamerjagdish.com/)** - A personal dashboard for tracking sleep and other stuff I do with session durations, time-of-day patterns, and weekly heatmaps, backed by Redis for fast data fetching. *(Redis, Dashboard, Data Visualization, Heatmap)*
+- **[Goodbye](https://goodbye.gamerjagdish.com/)** - A heartbeat monitor for my Discord friends. My phone pings a Firebase API every time I unlock it to say I'm alive. Go 24 hours without a signal and the site flips to LOST and reveals my final words. *(Firebase, Realtime DB, Android Automation, Dead Man's Switch)*
+- **[Simple URL Redirector](https://github.com/GamerJagdish/simple-url-redirector)** - A lightweight browser extension for redirecting and replacing URLs, with regex rules for Pro users. *(Browser Extension, JavaScript, URL Redirect, Regex)*
 
 ### Connect with me
 
@@ -43,4 +43,4 @@
 </p>
 
 ### Tech Stack & Skills
-I have experience building mobile apps, scalable web backends, intuitive dashboards, and decentralized applications, with a strong focus on problem-solving and clean design.
+Mobile apps, web backends, dashboards, and decentralized apps - I like to do micro but much needed improvements in stuff.
